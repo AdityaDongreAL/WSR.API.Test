@@ -229,11 +229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\al5324\\Desktop\\WSR\\Project\\WSR.API.Test\\WSR.API.Test\\WSR.API.Test.csproj",
+      "projectUniqueName": "D:\\WSR\\Project\\WSR.API.Test\\WSR.API.Test.csproj",
       "projectName": "WSR.API.Test",
-      "projectPath": "C:\\Users\\al5324\\Desktop\\WSR\\Project\\WSR.API.Test\\WSR.API.Test\\WSR.API.Test.csproj",
+      "projectPath": "D:\\WSR\\Project\\WSR.API.Test\\WSR.API.Test.csproj",
       "packagesPath": "C:\\Users\\al5324\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\al5324\\Desktop\\WSR\\Project\\WSR.API.Test\\WSR.API.Test\\obj\\",
+      "outputPath": "D:\\WSR\\Project\\WSR.API.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\al5324\\AppData\\Roaming\\NuGet\\NuGet.Config",
